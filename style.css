@@ -1,21 +1,25 @@
 header {
   background-color: black;
   color: white;
+  height: 40px;
 }
 
 footer {
   background-color: black;
   color: white;
+  height: 40px;
 }
 
 .item1 {
   grid-area: nav;
   background-color: lightblue;
+  height: 100px;
 }
 
 .item3 {
   grid-area: main;
   background-color: lightcoral;
+  height: 400px;
 }
 .item2 {
   grid-area: aside;
